@@ -5,3 +5,4 @@ REMOTE MODIFY
 remote modify
 test by sublime
 test by sublime without passwd
+test by sublime in office
